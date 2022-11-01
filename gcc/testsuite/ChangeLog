@@ -1,3 +1,8 @@
+2022-11-01  Oria Chen  <oriachiuan@gmail.com>
+
+        * gcc.target/riscv/zcd.c: Test for zcd
+        * gcc.target/riscv/zc-zext.c scan-assembler for zero extension
+
 2022-08-15  Charlie Keaney  <charlie.keaney@embecosm.com>
 
 	* gcc.target/riscv/zc-zca-arch.c: New test for march args
